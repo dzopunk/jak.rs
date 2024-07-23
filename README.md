@@ -22,5 +22,5 @@ This project is a simple, elegant one-page website developed for a client. It fe
 - **HTML/CSS**: Structured using BEM methodology.
 
 
-##Contact
-Jovana Vučetić - jovucetic@gmail.com
+## Contact
+- **Jovana Vučetić - jovucetic@gmail.com
