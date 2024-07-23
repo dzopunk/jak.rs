@@ -1,6 +1,6 @@
 # One-Page Website Project
 
-![Project Logo](path/to/logo.png](https://github.com/dzopunk/jak.rs/blob/main/img/jaklogo.svg)
+![Project Logo](https://github.com/dzopunk/jak.rs/blob/main/img/jaklogo.svg?raw=true)
 
 ## Overview
 
