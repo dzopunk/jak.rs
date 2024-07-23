@@ -24,3 +24,7 @@ This project is a simple, elegant one-page website developed for a client. It fe
 
 ## Contact
 - Jovana Vučetić - jovucetic@gmail.com
+
+## Live page
+
+- https://dzopunk.github.io/jak.rs/
